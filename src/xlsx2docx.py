@@ -153,6 +153,7 @@ def main(argv) :
 
         table = document.add_table(rows=len(lst_reg_fields)+1, cols=5)
         table.style = 'Basic_table_style'
+        table.autofit = True
         table.cell(0, 0).text = "Field Name"
         table.cell(0, 1).text = "Bits"
         table.cell(0, 2).text = "Access Type"
