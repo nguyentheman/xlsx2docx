@@ -9,7 +9,6 @@ This script require to install "pandas", "xlrd" and "pydocx" package to execute.
 pip install pandas
 pip install xlrd
 pip install pydocx
-
 ```
 
 ## Usage
