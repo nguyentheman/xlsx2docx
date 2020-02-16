@@ -30,11 +30,11 @@ xlsx2rtl.py -i ./test/test.xlsx -w ./test/report_templete.docx -o ./test/ -l 1
 
 The excel input file:
 
-![Register input file format](https://github.com/nguyentheman/xlsx2rtl/blob/master/docs/register_define.jpg)
+![Register input file format](https://github.com/nguyentheman/xlsx2docx/blob/master/docs/register_define.jpg)
 
 The uart_csr_ug.docx output:
 
-![Register input file format](https://github.com/nguyentheman/xlsx2rtl/blob/master/docs/docx_output.jpg)
+![Register input file format](https://github.com/nguyentheman/xlsx2docx/blob/master/docs/docx_output.jpg)
 
 ## License
 
